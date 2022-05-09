@@ -4,9 +4,9 @@
 
 Genera combos a base de Keywords con Termux. Este proyecto tiene fines educativos y/o demostrativos.
 
-Tenemos un grupo en facebook > https://www.facebook.com/groups/1175363389159546/
 
-Video de instalacion > https://www.youtube.com/watch?v=0k9D20r2Q3U
+
+
 
 ## Novedades
 > - Checkeo de version.
@@ -33,7 +33,7 @@ INSTALAMOS PHP y GIT para clonar el repositorio...
 
 3. pkg install php git -y
 
-4. git clone https://github.com/Juni0r007/PasTerm.git
+4. git clone https://github.com/Hack03/PasTerm.git
 
 5. ls
 
@@ -63,6 +63,6 @@ Es obligatorio -por el momento- usar una vpn
 
 Son cuentas  obtenidas con Sentry MBA y PasteBin [Termux pero no todas] en si estas son 100% reales por lo cual las paga una persona y si cambias la contraseña el dueño va cancelar la cuenta.
 
-## Anexos
 
-- Checker de Spotify en Termux > https://github.com/Juni0r007/SpotiChk
+
+
